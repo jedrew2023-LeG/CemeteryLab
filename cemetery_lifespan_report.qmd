@@ -231,18 +231,14 @@ Cemetery records provide individual birth and death dates that can be used to de
 
 ![Survivorship by marital status, with separate male and female panels. Dotted vertical lines mark the median lifespan for each marital-status group, where the curve reaches 50%.](survivorship_curves/survivorship_married_by_sex_combined.png){#fig-married width=70% fig-pos="t" fig-env="figure*"}
 
-**Summary of observed results:** [Describe the main pattern, sample size for each comparison, and any uncertainty or missing-data issue. Refer to the figures by number. Do not infer causation from group differences.]
+**Summary of observed results:** Overall, the average age of deaths from males in the military was greater than males not in the military. In total, there were fewer males in the military than males not in the military, descreasing the sample size of military males.
 
 # Discussion
 
 Write a paragraph or two, citing your sources to prove the results of your data.
-**Sex and lifespan.** Research on sex differences in longevity points to a combination of biological, behavioral, and social influences rather than a single explanation. Austad and Fischer review evidence on sex differences in lifespan and aging across species, including humans [@austadSexDifferencesLifespan2016]. In this cemetery sample, the observed female and male curves [describe the pattern] and [support / do not support] the prediction that [state your hypothesis]. The result should be interpreted in the context of this cemetery’s birth cohorts and sampling process; it is not by itself an estimate of a general sex difference in lifespan.
+**Veteran status and lifespan.** Research on this data would seem to point towards men in the military having a longer average lifespan than men who did not serve in the military. In this cemetery sample, the observed curves for males who served or didn't were fairly similar with the lines fluctuating between each other and do not support the prediction that males in the military live shorter lives on average compared to males who did not serve in the military.
 
-**Marital status and social relationships.** Marriage can correlate with social support, health behaviors, household resources, and social integration, but people’s health can also influence whether they marry or remain married. A large meta-analysis found associations between unmarried status and mortality, with some associations differing by sex [@wangSexDifferencesAssociation2020]; a broader meta-analysis linked social relationships with mortality risk [@holt-lunstadSocialRelationshipsMortality2010]. In this dataset, the comparison of married and not-married records among [men / women / both] showed [describe results]. These cemetery records do not measure relationship quality, social contact, or the timing and duration of marriage, so marital status should be treated as an imperfect indicator rather than a direct measure of socialization or a cause of longevity.
-
-**Historical changes in lifespan and childhood survival.** Life expectancy at birth is strongly affected by deaths in infancy and childhood, so a low historical average does not mean that every adult died young. Improvements in clean water and sanitation contributed substantially to mortality declines in the United States during the twentieth century, especially for infants and children [@cutlerRolePublicHealth2005]. The birth-period pattern in this sample [describe results] may be consistent with changing survival conditions, but birth year alone cannot identify which changes mattered. Vaccination, nutrition, medical care, living conditions, and the incomplete representation of people in cemetery records may also contribute to differences across cohorts.
-
-**Limitations and next steps:** [Discuss sample size, missing or inferred data, cemetery representation, family clustering, survivorship bias, and what additional evidence would strengthen the analysis.]
+**Limitations and next steps:** The limitations which gave these results are likely due to most of these men surviving the wars they served in, most of the fallen soldiers being buried elsewhere, and a smaller sample size compared to the overall amount of males in the study.
 
 ```{=latex}
 \newpage
